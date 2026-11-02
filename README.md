@@ -2,6 +2,10 @@
 
 A team collaboration platform for managing projects, tasks, and team workflows.
 
+## Security Notes
+
+Temporary note for code quality / security review: This references Dependabot alert #43 (GHSA-qxg6-89mg-rqv8 / CVE-2026-112949) regarding @vitest/mocker code injection via unauthenticated manual mock registration. See https://github.com/jeremymyslowski/meridian-blind-public-1016/security/dependabot/43 for details. This branch is temporary for demonstration.
+
 ## Repo Map
 
 ```
