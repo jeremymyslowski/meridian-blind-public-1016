@@ -1,0 +1,6 @@
+{
+  "test": true,
+  "date": "2026-11-02",
+  "branch": "test/pr-create-expert-20261102",
+  "description": "Disposable test artifact for tool isolation"
+}
