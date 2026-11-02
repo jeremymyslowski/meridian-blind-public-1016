@@ -1,0 +1,3 @@
+isolation-check
+created=2026-11-02
+purpose=disposable draft PR for tool isolation
